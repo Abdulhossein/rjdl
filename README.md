@@ -14,13 +14,12 @@ pip install .
 </div>
 
 ## وابستگی‌ها
-
+<div align="left">
 ```bash
 pip install -r requirements.txt
 ```
-
+</div>
 ## استفاده
-
 ```python
 from rjdl import get_song_info, download_audio
 
@@ -32,7 +31,7 @@ print(info)
 # دانلود فایل صوتی
 download_audio(url)
 ```
-
+</div>
 ## خروجی نمونه تابع `get_song_info`:
 
 ```json
