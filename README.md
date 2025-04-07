@@ -4,12 +4,14 @@
 `rjdl` یک کتابخانه‌ی ساده و سبک پایتون برای دریافت اطلاعات و دانلود فایل صوتی آهنگ‌ها و پادکست‌های RadioJavan است.
 
 ## نصب
+<div align="left">
 
 ```bash
 git clone https://github.com/Abdulhossein/rjdl.git
 cd rjdl
 pip install .
 ```
+</div>
 
 ## وابستگی‌ها
 
